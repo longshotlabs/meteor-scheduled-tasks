@@ -1,7 +1,9 @@
-aldeed:scheduled-tasks
+scheduled-tasks
 =========================
 
 A Meteor package that provides a simple API for scheduling a function to run on the server. This is a fairly basic wrapper around [laterjs](http://bunkat.github.io/later/) and also exports the `later` variable.
+
+Requires Meteor 0.9.0+
 
 ## Installing
 
