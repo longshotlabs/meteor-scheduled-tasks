@@ -2,7 +2,7 @@ Package.describe({
   name: "aldeed:scheduled-tasks",
   summary: "Run a function on a schedule",
   git: "https://github.com/aldeed/meteor-scheduled-tasks.git",
-  version: "0.1.0"
+  version: "0.1.1"
 });
 
 Npm.depends({
