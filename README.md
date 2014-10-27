@@ -1,6 +1,8 @@
 scheduled-tasks
 =========================
 
+**NOTE: Although, this package works, I recommend using [percolatestudio:synced-cron](https://github.com/percolatestudio/meteor-synced-cron) instead because it supports multiple app instances.**
+
 A Meteor package that provides a simple API for scheduling a function to run on the server. This is a fairly basic wrapper around [laterjs](http://bunkat.github.io/later/) and also exports the `later` variable.
 
 Requires Meteor 0.9.0+
